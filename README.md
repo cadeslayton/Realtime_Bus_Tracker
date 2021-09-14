@@ -1,16 +1,9 @@
-# Real_Time_Bus_Tracker
+# Realtime_Bus_Tracker
 
-**Description:**
-This is week nine's JavaScript project to track buses on a Boston city map using HTML, CSS, and JavaScript.
+Description:
 
-**Installation:**
-To install, please download the files to your laptop.  
+This is for week 9 of the MIT Xpro course.  Real time bus tracking!
 
-**Usage:**
-To use/execute, drag index.html onto the browser
+Installation:
 
-**Support:**
-You may contact me via GitHub
-
-**License information:**
-Licensed via the MIT XPRO JavaScript course.
+Download the files to your laptop and drag the index.html into your browser
